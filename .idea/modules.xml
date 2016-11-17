@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/za.ac.cput.infoshare.iml" filepath="$PROJECT_DIR$/za.ac.cput.infoshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/infoshare.iml" filepath="$PROJECT_DIR$/.idea/infoshare.iml" />
     </modules>
   </component>
 </project>

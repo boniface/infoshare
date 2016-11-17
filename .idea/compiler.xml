@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="infoshare" />
         <module name="za.ac.cput.infoshare" />
       </profile>
     </annotationProcessing>
